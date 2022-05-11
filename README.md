@@ -1,8 +1,8 @@
 
 
 # buni test uchun readme file ni tekshirish uchun bajardim
-<h4># Я сделал это, чтобы проверить файл readme для тестирования</h4>
-# I did this to check the readme file for testing
+<h3># Я сделал это, чтобы проверить файл readme для тестирования</h3>
+<h3># I did this to check the readme file for testing</h3>
 <h1 align="center">Node.js Telegram Bot API</h1>
 
 <div align="center">
