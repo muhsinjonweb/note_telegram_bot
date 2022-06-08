@@ -1,6 +1,11 @@
 body {
   font-family: 'Raleway', sans-serif;
   background-color: #fefeff;
+
+}
+
+.a{
+  padding: 0;
 }
 
 .layout_padding {
@@ -21,6 +26,7 @@ body {
 
 .layout_padding-bottom {
   padding-bottom: 75px;
+
 }
 
 .call_to-btn {
