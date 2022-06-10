@@ -3,10 +3,13 @@ body {
   background-color: #fefeff;
 
 }
-
+/*
 .a{
   padding: 0;
-}
+  margin: 0;
+}*/
+
+
 
 .layout_padding {
   padding: 75px 0;
